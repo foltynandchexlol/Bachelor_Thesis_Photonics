@@ -15,7 +15,7 @@ $det(M')(z, \eta, \nu)$ are being computed in partial dependence of squeezing pa
 beam splitter transmissivity $T$ (otherwise assumed $T = 0.9$) for various combinations of
 up to three photons subtracted, added or replaced. Efficiency $\eta = 0.3$ and dark count
 $\nu = 0.4$ are approximated as parameters for lossy detection by reproducing the lossy JPDs
-in OSM.
+in OSM.<br>
 Overall the non-classicality of the output states and their change in correlation with symmetrical
 number of photons subtracted could be confirmed as predicated in OSM, although
 with significant differences in magnitude for $det(M)(z)$. Increases in the degree of entanglement
@@ -26,12 +26,13 @@ and $det(M')(z, \eta, \nu)$ are also being computed for symmetrical photon addit
 with remarkable alterations being observed especially for replacement. Expanding
 on TJB, $\Delta E_{N}(z, T)$ and $E_{N}(z, T = 0.9)$ are being computed for higher numbers of photon
 operations, indicating an increase in entanglement with the number of photons manipulated
-and an expansion of $(z, T)$-regimes for which entanglement increases.
+and an expansion of $(z, T)$-regimes for which entanglement increases.<br>
 The foundation of this simulation lends itself to examine further combinations of operations
 with larger numbers of photons manipulated and for computing other measures of
 interest, generally yielding more accurate and valid results with a higher number $N$ of
 Hilbert space dimensions. However, processing requirements expand very rapidly with $N$.
 
+---
 
 ## List of Abbreviations
 
