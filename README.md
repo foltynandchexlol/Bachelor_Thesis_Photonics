@@ -36,30 +36,30 @@ Hilbert space dimensions. However, processing requirements expand very rapidly w
 
 ## List of Abbreviations
 
-__BS__ \ beam splitter
+__BS__ %nbsp; beam splitter
 
-__DMM__ \ determinant of the matrix of moments
+__DMM__ %nbsp; determinant of the matrix of moments
 
-__JPD__ \ joint photon number distribution
+__JPD__ %nbsp; joint photon number distribution
 
-__OSM__ \ Omar S. Magana-Loaiza et al.: Multiphoton Quantum-State Engineering using Conditional Measurements; https://arxiv.org/abs/1901.00122
+__OSM__ %nbsp; Omar S. Magana-Loaiza et al.: Multiphoton Quantum-State Engineering using Conditional Measurements; https://arxiv.org/abs/1901.00122
 
-__PBS__ \ polarising beam splitter
+__PBS__ %nbsp; polarising beam splitter
 
-__PND__ \ photon number resolving detector
+__PND__ %nbsp; photon number resolving detector
 
-__ppKTP WG__ \ potassium titanyl phosphate waveguide
+__ppKTP WG__ %nbsp; potassium titanyl phosphate waveguide
 
-__QuTiP__ \ Quantum Toolbox in Python
+__QuTiP__ %nbsp; Quantum Toolbox in Python
 
-__SMF__ \ single mode fibre
+__SMF__ %nbsp; single mode fibre
 
-__SPDC__ \ spontaneous parametric down-conversion
+__SPDC__ %nbsp; spontaneous parametric down-conversion
 
-__TES__ \ transition edge sensor
+__TES__ %nbsp; transition edge sensor
 
-__TJB__ \ Tim J. Bartley and Ian A. Walmsley: Directly comparing entanglement-enhancing non-Gaussian operations; https://iopscience.iop.org/article/10.1088/1367-2630/17/2/023038
+__TJB__ %nbsp; Tim J. Bartley and Ian A. Walmsley: Directly comparing entanglement-enhancing non-Gaussian operations; https://iopscience.iop.org/article/10.1088/1367-2630/17/2/023038
 
-__TMSV__ \ two-mode squeezed vacuum
+__TMSV__ %nbsp; two-mode squeezed vacuum
 
-__TMSVS__ \ two-mode squeezed vacuum state
+__TMSVS__ %nbsp; two-mode squeezed vacuum state
